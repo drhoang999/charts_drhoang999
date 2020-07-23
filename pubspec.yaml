@@ -1,8 +1,8 @@
 name: charts_drhoang
 description: A new Flutter project.
-version: 0.0.1
+version: 0.0.2
 author:
-homepage:
+homepage: https://github.com/drhoang999/charts_drhoang999
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
